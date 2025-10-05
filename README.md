@@ -35,6 +35,6 @@ Demographic info about customers – gender, age range, and if they have partner
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 - ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
-
+- ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
 
 
