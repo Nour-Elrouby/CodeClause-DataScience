@@ -1,4 +1,4 @@
-# CodeClause-DataScience
+# CodeClause
 A repo for my project as a ML Engineer
 # Project Telcom-Customer-Chrun 
 I worked on 
